@@ -9,3 +9,6 @@ Este repositorio fue creado como parte de una actividad académica para aprender
 Este proyecto contiene:
 - Un archivo `README.md` para describir el propósito y la estructura.
 - Ejemplos de código básico en diferentes lenguajes como HTML.
+
+   Autor
+Este proyecto fue creado por Patricia Macias como parte de un ejercicio para aprender Git y GitHub.
